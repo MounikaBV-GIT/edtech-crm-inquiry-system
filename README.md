@@ -1,3 +1,9 @@
+## Live Demo
+
+**Live Website:** https://edtech-crm-inquiry-system-vxwg.vercel.app/
+
+**Backend Health Check:** https://edtech-crm-inquiry-system.onrender.com/api/health/
+
 # EdTech CRM & Inquiry System
 
 Full-stack assessment implementation:
